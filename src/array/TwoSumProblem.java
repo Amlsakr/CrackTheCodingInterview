@@ -11,6 +11,8 @@ public class TwoSumProblem {
         int[] array = {1 , 6 , 4 ,8 ,3};
         int [] result = twoSum2(array , 4);
         System.out.println(Arrays.toString(result));
+        double x = 2819653.00;
+        System.out.println(Double.MAX_VALUE);
 
     }
 
